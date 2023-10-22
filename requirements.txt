@@ -4,3 +4,6 @@ pandas
 pydeck
 streamlit
 face_recognition
+streamlit_extras
+mediapipe
+opencv-python-headless
